@@ -1,0 +1,45 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+main{
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    box-shadow: 10px 10px 100px;
+}
+
+/* QR code section */
+#qrcode-img{
+    width: 300px;
+    border-radius: 20px;
+}
+
+.description{
+    text-align: center;
+}
+#head-section{
+    font-weight: 700;
+    font-size: 24px;
+    color: hsl(218, 44%, 22%);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#small-section{
+    font-weight: 500;
+    font-size: 18px;
+    color: hsl(220, 15%, 55%);
+    width: 300px;
+    margin-bottom: 25px;
+}
